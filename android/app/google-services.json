@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107522573428",
+    "project_id": "oxyboots-63072",
+    "storage_bucket": "oxyboots-63072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107522573428:android:4d96394539a9816b4a3d21",
+        "android_client_info": {
+          "package_name": "com.example.oxyboots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxK8bsRea_Z7juQ0tnQPid28WXx1IEDYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
